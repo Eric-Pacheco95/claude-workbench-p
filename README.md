@@ -103,6 +103,16 @@ Session work -> /learning-capture -> /synthesize-signals -> /update-steering-rul
                   (signals)            (synthesis)            (better sessions)
 ```
 
+## Credits & Upstream
+
+This starter kit is inspired by and built on top of [Daniel Miessler's](https://github.com/danielmiessler) open-source work:
+
+- **[PAI (Personal AI Infrastructure)](https://github.com/danielmiessler/PAI)** — Ideal State Criteria (ISC), the "Scaffolding > Model" founding principle, and the personal-AI-brain pattern this kit starts from
+- **[The Algorithm](https://github.com/danielmiessler/TheAlgorithm)** — the 7-phase `OBSERVE → THINK → PLAN → BUILD → EXECUTE → VERIFY → LEARN` doctrine
+- **[Fabric](https://github.com/danielmiessler/fabric)** — pattern names including `extract-wisdom`, `extract-alpha`, `analyze-claims`, `find-logical-fallacies`, `first-principles`, `improve-prompt`, and `create-pattern`
+
+These projects are public and meant to be built on; this credit points back so others can find and contribute to the upstream work.
+
 ## License
 
 MIT
